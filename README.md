@@ -25,4 +25,4 @@ We believe in giving back to the developer community. Explore our public reposit
 
 ## Connect With Us
 
-[Website](https://holofin.ai) · [LinkedIn](https://linkedin.com/company/holofin) · [Twitter/X](https://x.com/holofin) · [Documentation](https://holofin.ai/docs)
+[Website](https://holofin.ai) · [LinkedIn](https://www.linkedin.com/company/111133133/) · [Twitter/X](https://x.com/holofin_ai) · [Documentation](https://holofin.ai/docs)
